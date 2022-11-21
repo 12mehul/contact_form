@@ -1,8 +1,12 @@
 import './App.css';
+import AddContact from './components/AddContact';
 
 function App() {
   return (
-    <div className="App">
+    <div>
+
+      <AddContact />
+
     </div>
   );
 }
