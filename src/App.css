@@ -34,3 +34,16 @@
     transform: rotate(360deg);
   }
 }
+.Contact_container{
+  width: 800px;
+  height: auto;
+}
+input{
+  width: 300px;
+}
+.Budget_input{
+  width: 620px;
+}
+textarea{
+  width: 620px;
+}
